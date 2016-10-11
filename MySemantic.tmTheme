@@ -1,0 +1,5466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Monokai Extended Bright</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#050018</string>
+				<key>caret</key>
+				<string>#F8F8F0</string>
+				<key>foreground</key>
+				<string>#F8F8F2</string>
+				<key>invisibles</key>
+				<string>#3B3A32</string>
+				<key>lineHighlight</key>
+				<string>#3E3D32</string>
+				<key>selection</key>
+				<string>#9D550F</string>
+				<key>selectionForeground</key>
+				<string>#fffff8</string>
+				<key>inactiveSelection</key>
+				<string>#bbbbbb</string>
+				<key>inactiveSelectionForeground</key>
+				<string>#222222</string>
+				<key>findHighlight</key>
+				<string>#FFE792</string>
+				<key>findHighlightForeground</key>
+				<string>#000000</string>
+				<!--X-->
+				<key>selectionBorder</key>
+				<string>#1C1C1C</string>
+				<!--/X-->
+				<key>activeGuide</key>
+				<string>#9D550FB0</string>
+
+				<key>bracketsForeground</key>
+				<string>#F8F8F2A5</string>
+				<key>bracketsOptions</key>
+				<string>underline</string>
+
+				<key>bracketContentsForeground</key>
+				<string>#F8F8F2A5</string>
+				<key>bracketContentsOptions</key>
+				<string>underline</string>
+
+				<key>tagsOptions</key>
+				<string>stippled_underline</string>
+			</dict>
+		</dict>
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-0</string>
+            <key>scope</key>
+            <string>explicit-hue-0</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-1</string>
+            <key>scope</key>
+            <string>explicit-hue-1</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6685b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-2</string>
+            <key>scope</key>
+            <string>explicit-hue-2</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6755b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-3</string>
+            <key>scope</key>
+            <string>explicit-hue-3</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6825b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-4</string>
+            <key>scope</key>
+            <string>explicit-hue-4</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d68f5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-5</string>
+            <key>scope</key>
+            <string>explicit-hue-5</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d69b5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-6</string>
+            <key>scope</key>
+            <string>explicit-hue-6</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6a85b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-7</string>
+            <key>scope</key>
+            <string>explicit-hue-7</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6b55b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-8</string>
+            <key>scope</key>
+            <string>explicit-hue-8</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6c25b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-9</string>
+            <key>scope</key>
+            <string>explicit-hue-9</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6cf5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-10</string>
+            <key>scope</key>
+            <string>explicit-hue-10</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d0d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-11</string>
+            <key>scope</key>
+            <string>explicit-hue-11</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c3d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-12</string>
+            <key>scope</key>
+            <string>explicit-hue-12</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b6d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-13</string>
+            <key>scope</key>
+            <string>explicit-hue-13</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a9d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-14</string>
+            <key>scope</key>
+            <string>explicit-hue-14</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#9dd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-15</string>
+            <key>scope</key>
+            <string>explicit-hue-15</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#90d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-16</string>
+            <key>scope</key>
+            <string>explicit-hue-16</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#83d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-17</string>
+            <key>scope</key>
+            <string>explicit-hue-17</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#76d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-18</string>
+            <key>scope</key>
+            <string>explicit-hue-18</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#69d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-19</string>
+            <key>scope</key>
+            <string>explicit-hue-19</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5dd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-20</string>
+            <key>scope</key>
+            <string>explicit-hue-20</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd667</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-21</string>
+            <key>scope</key>
+            <string>explicit-hue-21</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd674</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-22</string>
+            <key>scope</key>
+            <string>explicit-hue-22</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd680</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-23</string>
+            <key>scope</key>
+            <string>explicit-hue-23</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd68d</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-24</string>
+            <key>scope</key>
+            <string>explicit-hue-24</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd69a</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-25</string>
+            <key>scope</key>
+            <string>explicit-hue-25</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6a7</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-26</string>
+            <key>scope</key>
+            <string>explicit-hue-26</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6b4</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-27</string>
+            <key>scope</key>
+            <string>explicit-hue-27</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6c1</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-28</string>
+            <key>scope</key>
+            <string>explicit-hue-28</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6cd</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-29</string>
+            <key>scope</key>
+            <string>explicit-hue-29</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd1d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-30</string>
+            <key>scope</key>
+            <string>explicit-hue-30</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bc4d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-31</string>
+            <key>scope</key>
+            <string>explicit-hue-31</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bb8d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-32</string>
+            <key>scope</key>
+            <string>explicit-hue-32</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5babd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-33</string>
+            <key>scope</key>
+            <string>explicit-hue-33</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b9ed6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-34</string>
+            <key>scope</key>
+            <string>explicit-hue-34</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b91d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-35</string>
+            <key>scope</key>
+            <string>explicit-hue-35</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b84d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-36</string>
+            <key>scope</key>
+            <string>explicit-hue-36</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b77d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-37</string>
+            <key>scope</key>
+            <string>explicit-hue-37</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b6bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-38</string>
+            <key>scope</key>
+            <string>explicit-hue-38</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b5ed6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-39</string>
+            <key>scope</key>
+            <string>explicit-hue-39</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#665bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-40</string>
+            <key>scope</key>
+            <string>explicit-hue-40</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#725bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-41</string>
+            <key>scope</key>
+            <string>explicit-hue-41</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7f5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-42</string>
+            <key>scope</key>
+            <string>explicit-hue-42</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#8c5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-43</string>
+            <key>scope</key>
+            <string>explicit-hue-43</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#995bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-44</string>
+            <key>scope</key>
+            <string>explicit-hue-44</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a65bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-45</string>
+            <key>scope</key>
+            <string>explicit-hue-45</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b25bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-46</string>
+            <key>scope</key>
+            <string>explicit-hue-46</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bf5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-47</string>
+            <key>scope</key>
+            <string>explicit-hue-47</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#cc5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-48</string>
+            <key>scope</key>
+            <string>explicit-hue-48</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bd2</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-49</string>
+            <key>scope</key>
+            <string>explicit-hue-49</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bc6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-50</string>
+            <key>scope</key>
+            <string>explicit-hue-50</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bb9</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-51</string>
+            <key>scope</key>
+            <string>explicit-hue-51</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bac</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-52</string>
+            <key>scope</key>
+            <string>explicit-hue-52</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b9f</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-53</string>
+            <key>scope</key>
+            <string>explicit-hue-53</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b92</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-54</string>
+            <key>scope</key>
+            <string>explicit-hue-54</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b86</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-55</string>
+            <key>scope</key>
+            <string>explicit-hue-55</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b79</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-56</string>
+            <key>scope</key>
+            <string>explicit-hue-56</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b6c</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-57</string>
+            <key>scope</key>
+            <string>explicit-hue-57</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b5f</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-58</string>
+            <key>scope</key>
+            <string>explicit-hue-58</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6645b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-59</string>
+            <key>scope</key>
+            <string>explicit-hue-59</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6715b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-60</string>
+            <key>scope</key>
+            <string>explicit-hue-60</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d67e5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-61</string>
+            <key>scope</key>
+            <string>explicit-hue-61</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d68b5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-62</string>
+            <key>scope</key>
+            <string>explicit-hue-62</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6985b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-63</string>
+            <key>scope</key>
+            <string>explicit-hue-63</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6a45b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-64</string>
+            <key>scope</key>
+            <string>explicit-hue-64</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6b15b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-65</string>
+            <key>scope</key>
+            <string>explicit-hue-65</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6be5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-66</string>
+            <key>scope</key>
+            <string>explicit-hue-66</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6cb5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-67</string>
+            <key>scope</key>
+            <string>explicit-hue-67</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d4d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-68</string>
+            <key>scope</key>
+            <string>explicit-hue-68</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c7d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-69</string>
+            <key>scope</key>
+            <string>explicit-hue-69</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bad65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-70</string>
+            <key>scope</key>
+            <string>explicit-hue-70</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#add65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-71</string>
+            <key>scope</key>
+            <string>explicit-hue-71</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a0d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-72</string>
+            <key>scope</key>
+            <string>explicit-hue-72</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#94d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-73</string>
+            <key>scope</key>
+            <string>explicit-hue-73</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#87d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-74</string>
+            <key>scope</key>
+            <string>explicit-hue-74</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7ad65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-75</string>
+            <key>scope</key>
+            <string>explicit-hue-75</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#6dd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-76</string>
+            <key>scope</key>
+            <string>explicit-hue-76</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#60d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-77</string>
+            <key>scope</key>
+            <string>explicit-hue-77</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd663</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-78</string>
+            <key>scope</key>
+            <string>explicit-hue-78</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd670</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-79</string>
+            <key>scope</key>
+            <string>explicit-hue-79</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd67d</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-80</string>
+            <key>scope</key>
+            <string>explicit-hue-80</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd68a</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-81</string>
+            <key>scope</key>
+            <string>explicit-hue-81</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd696</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-82</string>
+            <key>scope</key>
+            <string>explicit-hue-82</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6a3</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-83</string>
+            <key>scope</key>
+            <string>explicit-hue-83</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6b0</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-84</string>
+            <key>scope</key>
+            <string>explicit-hue-84</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6bd</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-85</string>
+            <key>scope</key>
+            <string>explicit-hue-85</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6ca</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-86</string>
+            <key>scope</key>
+            <string>explicit-hue-86</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd5d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-87</string>
+            <key>scope</key>
+            <string>explicit-hue-87</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bc8d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-88</string>
+            <key>scope</key>
+            <string>explicit-hue-88</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bbbd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-89</string>
+            <key>scope</key>
+            <string>explicit-hue-89</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bafd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-90</string>
+            <key>scope</key>
+            <string>explicit-hue-90</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5ba2d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-91</string>
+            <key>scope</key>
+            <string>explicit-hue-91</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b95d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-92</string>
+            <key>scope</key>
+            <string>explicit-hue-92</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b88d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-93</string>
+            <key>scope</key>
+            <string>explicit-hue-93</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b7bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-94</string>
+            <key>scope</key>
+            <string>explicit-hue-94</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b6ed6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-95</string>
+            <key>scope</key>
+            <string>explicit-hue-95</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b62d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-96</string>
+            <key>scope</key>
+            <string>explicit-hue-96</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#625bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-97</string>
+            <key>scope</key>
+            <string>explicit-hue-97</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#6f5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-98</string>
+            <key>scope</key>
+            <string>explicit-hue-98</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7b5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-99</string>
+            <key>scope</key>
+            <string>explicit-hue-99</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#885bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-100</string>
+            <key>scope</key>
+            <string>explicit-hue-100</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#955bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-101</string>
+            <key>scope</key>
+            <string>explicit-hue-101</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a25bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-102</string>
+            <key>scope</key>
+            <string>explicit-hue-102</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#af5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-103</string>
+            <key>scope</key>
+            <string>explicit-hue-103</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bc5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-104</string>
+            <key>scope</key>
+            <string>explicit-hue-104</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c85bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-105</string>
+            <key>scope</key>
+            <string>explicit-hue-105</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d55bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-106</string>
+            <key>scope</key>
+            <string>explicit-hue-106</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bc9</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-107</string>
+            <key>scope</key>
+            <string>explicit-hue-107</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bbd</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-108</string>
+            <key>scope</key>
+            <string>explicit-hue-108</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bb0</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-109</string>
+            <key>scope</key>
+            <string>explicit-hue-109</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65ba3</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-110</string>
+            <key>scope</key>
+            <string>explicit-hue-110</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b96</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-111</string>
+            <key>scope</key>
+            <string>explicit-hue-111</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b89</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-112</string>
+            <key>scope</key>
+            <string>explicit-hue-112</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b7d</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-113</string>
+            <key>scope</key>
+            <string>explicit-hue-113</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b70</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-114</string>
+            <key>scope</key>
+            <string>explicit-hue-114</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b63</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-115</string>
+            <key>scope</key>
+            <string>explicit-hue-115</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6615b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-116</string>
+            <key>scope</key>
+            <string>explicit-hue-116</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d66d5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-117</string>
+            <key>scope</key>
+            <string>explicit-hue-117</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d67a5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-118</string>
+            <key>scope</key>
+            <string>explicit-hue-118</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6875b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-119</string>
+            <key>scope</key>
+            <string>explicit-hue-119</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6945b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-120</string>
+            <key>scope</key>
+            <string>explicit-hue-120</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6a15b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-121</string>
+            <key>scope</key>
+            <string>explicit-hue-121</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6ad5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-122</string>
+            <key>scope</key>
+            <string>explicit-hue-122</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6ba5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-123</string>
+            <key>scope</key>
+            <string>explicit-hue-123</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6c75b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-124</string>
+            <key>scope</key>
+            <string>explicit-hue-124</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6d45b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-125</string>
+            <key>scope</key>
+            <string>explicit-hue-125</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#cbd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-126</string>
+            <key>scope</key>
+            <string>explicit-hue-126</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bed65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-127</string>
+            <key>scope</key>
+            <string>explicit-hue-127</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b1d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-128</string>
+            <key>scope</key>
+            <string>explicit-hue-128</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a4d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-129</string>
+            <key>scope</key>
+            <string>explicit-hue-129</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#97d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-130</string>
+            <key>scope</key>
+            <string>explicit-hue-130</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#8bd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-131</string>
+            <key>scope</key>
+            <string>explicit-hue-131</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7ed65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-132</string>
+            <key>scope</key>
+            <string>explicit-hue-132</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#71d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-133</string>
+            <key>scope</key>
+            <string>explicit-hue-133</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#64d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-134</string>
+            <key>scope</key>
+            <string>explicit-hue-134</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd65f</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-135</string>
+            <key>scope</key>
+            <string>explicit-hue-135</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd66c</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-136</string>
+            <key>scope</key>
+            <string>explicit-hue-136</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd679</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-137</string>
+            <key>scope</key>
+            <string>explicit-hue-137</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd686</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-138</string>
+            <key>scope</key>
+            <string>explicit-hue-138</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd693</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-139</string>
+            <key>scope</key>
+            <string>explicit-hue-139</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd69f</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-140</string>
+            <key>scope</key>
+            <string>explicit-hue-140</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6ac</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-141</string>
+            <key>scope</key>
+            <string>explicit-hue-141</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6b9</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-142</string>
+            <key>scope</key>
+            <string>explicit-hue-142</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6c6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-143</string>
+            <key>scope</key>
+            <string>explicit-hue-143</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6d3</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-144</string>
+            <key>scope</key>
+            <string>explicit-hue-144</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bccd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-145</string>
+            <key>scope</key>
+            <string>explicit-hue-145</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bbfd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-146</string>
+            <key>scope</key>
+            <string>explicit-hue-146</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bb2d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-147</string>
+            <key>scope</key>
+            <string>explicit-hue-147</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5ba5d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-148</string>
+            <key>scope</key>
+            <string>explicit-hue-148</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b99d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-149</string>
+            <key>scope</key>
+            <string>explicit-hue-149</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b8cd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-150</string>
+            <key>scope</key>
+            <string>explicit-hue-150</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b7fd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-151</string>
+            <key>scope</key>
+            <string>explicit-hue-151</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b72d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-152</string>
+            <key>scope</key>
+            <string>explicit-hue-152</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b65d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-153</string>
+            <key>scope</key>
+            <string>explicit-hue-153</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5e5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-154</string>
+            <key>scope</key>
+            <string>explicit-hue-154</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#6b5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-155</string>
+            <key>scope</key>
+            <string>explicit-hue-155</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#785bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-156</string>
+            <key>scope</key>
+            <string>explicit-hue-156</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#845bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-157</string>
+            <key>scope</key>
+            <string>explicit-hue-157</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#915bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-158</string>
+            <key>scope</key>
+            <string>explicit-hue-158</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#9e5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-159</string>
+            <key>scope</key>
+            <string>explicit-hue-159</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ab5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-160</string>
+            <key>scope</key>
+            <string>explicit-hue-160</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b85bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-161</string>
+            <key>scope</key>
+            <string>explicit-hue-161</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c55bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-162</string>
+            <key>scope</key>
+            <string>explicit-hue-162</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d15bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-163</string>
+            <key>scope</key>
+            <string>explicit-hue-163</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bcd</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-164</string>
+            <key>scope</key>
+            <string>explicit-hue-164</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bc0</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-165</string>
+            <key>scope</key>
+            <string>explicit-hue-165</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bb4</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-166</string>
+            <key>scope</key>
+            <string>explicit-hue-166</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65ba7</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-167</string>
+            <key>scope</key>
+            <string>explicit-hue-167</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b9a</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-168</string>
+            <key>scope</key>
+            <string>explicit-hue-168</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b8d</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-169</string>
+            <key>scope</key>
+            <string>explicit-hue-169</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b80</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-170</string>
+            <key>scope</key>
+            <string>explicit-hue-170</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b73</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-171</string>
+            <key>scope</key>
+            <string>explicit-hue-171</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b67</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-172</string>
+            <key>scope</key>
+            <string>explicit-hue-172</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65d5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-173</string>
+            <key>scope</key>
+            <string>explicit-hue-173</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d66a5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-174</string>
+            <key>scope</key>
+            <string>explicit-hue-174</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6765b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-175</string>
+            <key>scope</key>
+            <string>explicit-hue-175</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6835b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-176</string>
+            <key>scope</key>
+            <string>explicit-hue-176</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6905b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-177</string>
+            <key>scope</key>
+            <string>explicit-hue-177</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d69d5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-178</string>
+            <key>scope</key>
+            <string>explicit-hue-178</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6aa5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-179</string>
+            <key>scope</key>
+            <string>explicit-hue-179</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6b65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-180</string>
+            <key>scope</key>
+            <string>explicit-hue-180</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6c35b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-181</string>
+            <key>scope</key>
+            <string>explicit-hue-181</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6d05b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-182</string>
+            <key>scope</key>
+            <string>explicit-hue-182</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ced65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-183</string>
+            <key>scope</key>
+            <string>explicit-hue-183</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c2d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-184</string>
+            <key>scope</key>
+            <string>explicit-hue-184</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b5d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-185</string>
+            <key>scope</key>
+            <string>explicit-hue-185</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a8d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-186</string>
+            <key>scope</key>
+            <string>explicit-hue-186</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#9bd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-187</string>
+            <key>scope</key>
+            <string>explicit-hue-187</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#8ed65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-188</string>
+            <key>scope</key>
+            <string>explicit-hue-188</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#82d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-189</string>
+            <key>scope</key>
+            <string>explicit-hue-189</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#75d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-190</string>
+            <key>scope</key>
+            <string>explicit-hue-190</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#68d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-191</string>
+            <key>scope</key>
+            <string>explicit-hue-191</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-192</string>
+            <key>scope</key>
+            <string>explicit-hue-192</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd668</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-193</string>
+            <key>scope</key>
+            <string>explicit-hue-193</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd675</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-194</string>
+            <key>scope</key>
+            <string>explicit-hue-194</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd682</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-195</string>
+            <key>scope</key>
+            <string>explicit-hue-195</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd68f</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-196</string>
+            <key>scope</key>
+            <string>explicit-hue-196</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd69c</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-197</string>
+            <key>scope</key>
+            <string>explicit-hue-197</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6a8</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-198</string>
+            <key>scope</key>
+            <string>explicit-hue-198</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6b5</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-199</string>
+            <key>scope</key>
+            <string>explicit-hue-199</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6c2</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-200</string>
+            <key>scope</key>
+            <string>explicit-hue-200</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6cf</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-201</string>
+            <key>scope</key>
+            <string>explicit-hue-201</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd0d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-202</string>
+            <key>scope</key>
+            <string>explicit-hue-202</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bc3d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-203</string>
+            <key>scope</key>
+            <string>explicit-hue-203</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bb6d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-204</string>
+            <key>scope</key>
+            <string>explicit-hue-204</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5ba9d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-205</string>
+            <key>scope</key>
+            <string>explicit-hue-205</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b9cd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-206</string>
+            <key>scope</key>
+            <string>explicit-hue-206</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b90d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-207</string>
+            <key>scope</key>
+            <string>explicit-hue-207</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b83d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-208</string>
+            <key>scope</key>
+            <string>explicit-hue-208</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b76d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-209</string>
+            <key>scope</key>
+            <string>explicit-hue-209</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b69d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-210</string>
+            <key>scope</key>
+            <string>explicit-hue-210</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b5cd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-211</string>
+            <key>scope</key>
+            <string>explicit-hue-211</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#675bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-212</string>
+            <key>scope</key>
+            <string>explicit-hue-212</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#745bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-213</string>
+            <key>scope</key>
+            <string>explicit-hue-213</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#815bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-214</string>
+            <key>scope</key>
+            <string>explicit-hue-214</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#8d5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-215</string>
+            <key>scope</key>
+            <string>explicit-hue-215</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#9a5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-216</string>
+            <key>scope</key>
+            <string>explicit-hue-216</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a75bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-217</string>
+            <key>scope</key>
+            <string>explicit-hue-217</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b45bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-218</string>
+            <key>scope</key>
+            <string>explicit-hue-218</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c15bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-219</string>
+            <key>scope</key>
+            <string>explicit-hue-219</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ce5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-220</string>
+            <key>scope</key>
+            <string>explicit-hue-220</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bd1</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-221</string>
+            <key>scope</key>
+            <string>explicit-hue-221</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bc4</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-222</string>
+            <key>scope</key>
+            <string>explicit-hue-222</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bb7</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-223</string>
+            <key>scope</key>
+            <string>explicit-hue-223</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bab</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-224</string>
+            <key>scope</key>
+            <string>explicit-hue-224</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b9e</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-225</string>
+            <key>scope</key>
+            <string>explicit-hue-225</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b91</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-226</string>
+            <key>scope</key>
+            <string>explicit-hue-226</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b84</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-227</string>
+            <key>scope</key>
+            <string>explicit-hue-227</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b77</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-228</string>
+            <key>scope</key>
+            <string>explicit-hue-228</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b6a</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-229</string>
+            <key>scope</key>
+            <string>explicit-hue-229</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b5e</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-230</string>
+            <key>scope</key>
+            <string>explicit-hue-230</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6665b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-231</string>
+            <key>scope</key>
+            <string>explicit-hue-231</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6735b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-232</string>
+            <key>scope</key>
+            <string>explicit-hue-232</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d67f5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-233</string>
+            <key>scope</key>
+            <string>explicit-hue-233</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d68c5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-234</string>
+            <key>scope</key>
+            <string>explicit-hue-234</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6995b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-235</string>
+            <key>scope</key>
+            <string>explicit-hue-235</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6a65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-236</string>
+            <key>scope</key>
+            <string>explicit-hue-236</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6b35b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-237</string>
+            <key>scope</key>
+            <string>explicit-hue-237</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6bf5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-238</string>
+            <key>scope</key>
+            <string>explicit-hue-238</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6cc5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-239</string>
+            <key>scope</key>
+            <string>explicit-hue-239</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d2d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-240</string>
+            <key>scope</key>
+            <string>explicit-hue-240</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c5d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-241</string>
+            <key>scope</key>
+            <string>explicit-hue-241</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b9d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-242</string>
+            <key>scope</key>
+            <string>explicit-hue-242</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#acd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-243</string>
+            <key>scope</key>
+            <string>explicit-hue-243</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#9fd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-244</string>
+            <key>scope</key>
+            <string>explicit-hue-244</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#92d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-245</string>
+            <key>scope</key>
+            <string>explicit-hue-245</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#85d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-246</string>
+            <key>scope</key>
+            <string>explicit-hue-246</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#79d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-247</string>
+            <key>scope</key>
+            <string>explicit-hue-247</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#6cd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-248</string>
+            <key>scope</key>
+            <string>explicit-hue-248</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5fd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-249</string>
+            <key>scope</key>
+            <string>explicit-hue-249</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd665</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-250</string>
+            <key>scope</key>
+            <string>explicit-hue-250</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd671</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-251</string>
+            <key>scope</key>
+            <string>explicit-hue-251</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd67e</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-252</string>
+            <key>scope</key>
+            <string>explicit-hue-252</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd68b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-253</string>
+            <key>scope</key>
+            <string>explicit-hue-253</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd698</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-254</string>
+            <key>scope</key>
+            <string>explicit-hue-254</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6a5</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-255</string>
+            <key>scope</key>
+            <string>explicit-hue-255</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6b1</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-256</string>
+            <key>scope</key>
+            <string>explicit-hue-256</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6be</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-257</string>
+            <key>scope</key>
+            <string>explicit-hue-257</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6cb</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-258</string>
+            <key>scope</key>
+            <string>explicit-hue-258</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd4d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-259</string>
+            <key>scope</key>
+            <string>explicit-hue-259</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bc7d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-260</string>
+            <key>scope</key>
+            <string>explicit-hue-260</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bbad6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-261</string>
+            <key>scope</key>
+            <string>explicit-hue-261</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5badd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-262</string>
+            <key>scope</key>
+            <string>explicit-hue-262</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5ba0d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-263</string>
+            <key>scope</key>
+            <string>explicit-hue-263</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b93d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-264</string>
+            <key>scope</key>
+            <string>explicit-hue-264</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b87d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-265</string>
+            <key>scope</key>
+            <string>explicit-hue-265</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b7ad6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-266</string>
+            <key>scope</key>
+            <string>explicit-hue-266</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b6dd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-267</string>
+            <key>scope</key>
+            <string>explicit-hue-267</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b60d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-268</string>
+            <key>scope</key>
+            <string>explicit-hue-268</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#635bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-269</string>
+            <key>scope</key>
+            <string>explicit-hue-269</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#705bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-270</string>
+            <key>scope</key>
+            <string>explicit-hue-270</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7d5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-271</string>
+            <key>scope</key>
+            <string>explicit-hue-271</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#8a5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-272</string>
+            <key>scope</key>
+            <string>explicit-hue-272</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#975bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-273</string>
+            <key>scope</key>
+            <string>explicit-hue-273</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a35bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-274</string>
+            <key>scope</key>
+            <string>explicit-hue-274</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b05bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-275</string>
+            <key>scope</key>
+            <string>explicit-hue-275</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bd5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-276</string>
+            <key>scope</key>
+            <string>explicit-hue-276</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ca5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-277</string>
+            <key>scope</key>
+            <string>explicit-hue-277</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bd5</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-278</string>
+            <key>scope</key>
+            <string>explicit-hue-278</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bc8</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-279</string>
+            <key>scope</key>
+            <string>explicit-hue-279</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bbb</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-280</string>
+            <key>scope</key>
+            <string>explicit-hue-280</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bae</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-281</string>
+            <key>scope</key>
+            <string>explicit-hue-281</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65ba2</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-282</string>
+            <key>scope</key>
+            <string>explicit-hue-282</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b95</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-283</string>
+            <key>scope</key>
+            <string>explicit-hue-283</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b88</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-284</string>
+            <key>scope</key>
+            <string>explicit-hue-284</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b7b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-285</string>
+            <key>scope</key>
+            <string>explicit-hue-285</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b6e</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-286</string>
+            <key>scope</key>
+            <string>explicit-hue-286</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b61</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-287</string>
+            <key>scope</key>
+            <string>explicit-hue-287</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6625b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-288</string>
+            <key>scope</key>
+            <string>explicit-hue-288</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d66f5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-289</string>
+            <key>scope</key>
+            <string>explicit-hue-289</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d67c5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-290</string>
+            <key>scope</key>
+            <string>explicit-hue-290</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6885b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-291</string>
+            <key>scope</key>
+            <string>explicit-hue-291</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6955b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-292</string>
+            <key>scope</key>
+            <string>explicit-hue-292</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6a25b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-293</string>
+            <key>scope</key>
+            <string>explicit-hue-293</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6af5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-294</string>
+            <key>scope</key>
+            <string>explicit-hue-294</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6bc5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-295</string>
+            <key>scope</key>
+            <string>explicit-hue-295</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6c95b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-296</string>
+            <key>scope</key>
+            <string>explicit-hue-296</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6d55b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-297</string>
+            <key>scope</key>
+            <string>explicit-hue-297</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c9d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-298</string>
+            <key>scope</key>
+            <string>explicit-hue-298</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#bcd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-299</string>
+            <key>scope</key>
+            <string>explicit-hue-299</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b0d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-300</string>
+            <key>scope</key>
+            <string>explicit-hue-300</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a3d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-301</string>
+            <key>scope</key>
+            <string>explicit-hue-301</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#96d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-302</string>
+            <key>scope</key>
+            <string>explicit-hue-302</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#89d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-303</string>
+            <key>scope</key>
+            <string>explicit-hue-303</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#7cd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-304</string>
+            <key>scope</key>
+            <string>explicit-hue-304</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#70d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-305</string>
+            <key>scope</key>
+            <string>explicit-hue-305</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#63d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-306</string>
+            <key>scope</key>
+            <string>explicit-hue-306</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd661</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-307</string>
+            <key>scope</key>
+            <string>explicit-hue-307</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd66e</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-308</string>
+            <key>scope</key>
+            <string>explicit-hue-308</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd67a</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-309</string>
+            <key>scope</key>
+            <string>explicit-hue-309</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd687</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-310</string>
+            <key>scope</key>
+            <string>explicit-hue-310</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd694</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-311</string>
+            <key>scope</key>
+            <string>explicit-hue-311</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6a1</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-312</string>
+            <key>scope</key>
+            <string>explicit-hue-312</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6ae</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-313</string>
+            <key>scope</key>
+            <string>explicit-hue-313</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6ba</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-314</string>
+            <key>scope</key>
+            <string>explicit-hue-314</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6c7</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-315</string>
+            <key>scope</key>
+            <string>explicit-hue-315</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bd6d4</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-316</string>
+            <key>scope</key>
+            <string>explicit-hue-316</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bcbd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-317</string>
+            <key>scope</key>
+            <string>explicit-hue-317</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bbed6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-318</string>
+            <key>scope</key>
+            <string>explicit-hue-318</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5bb1d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-319</string>
+            <key>scope</key>
+            <string>explicit-hue-319</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5ba4d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-320</string>
+            <key>scope</key>
+            <string>explicit-hue-320</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b97d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-321</string>
+            <key>scope</key>
+            <string>explicit-hue-321</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b8ad6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-322</string>
+            <key>scope</key>
+            <string>explicit-hue-322</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b7ed6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-323</string>
+            <key>scope</key>
+            <string>explicit-hue-323</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b71d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-324</string>
+            <key>scope</key>
+            <string>explicit-hue-324</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5b64d6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-325</string>
+            <key>scope</key>
+            <string>explicit-hue-325</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#5f5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-326</string>
+            <key>scope</key>
+            <string>explicit-hue-326</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#6c5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-327</string>
+            <key>scope</key>
+            <string>explicit-hue-327</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#795bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-328</string>
+            <key>scope</key>
+            <string>explicit-hue-328</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#865bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-329</string>
+            <key>scope</key>
+            <string>explicit-hue-329</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#935bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-330</string>
+            <key>scope</key>
+            <string>explicit-hue-330</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a05bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-331</string>
+            <key>scope</key>
+            <string>explicit-hue-331</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ac5bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-332</string>
+            <key>scope</key>
+            <string>explicit-hue-332</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b95bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-333</string>
+            <key>scope</key>
+            <string>explicit-hue-333</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c65bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-334</string>
+            <key>scope</key>
+            <string>explicit-hue-334</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d35bd6</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-335</string>
+            <key>scope</key>
+            <string>explicit-hue-335</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bcc</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-336</string>
+            <key>scope</key>
+            <string>explicit-hue-336</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bbf</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-337</string>
+            <key>scope</key>
+            <string>explicit-hue-337</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65bb2</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-338</string>
+            <key>scope</key>
+            <string>explicit-hue-338</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65ba5</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-339</string>
+            <key>scope</key>
+            <string>explicit-hue-339</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b99</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-340</string>
+            <key>scope</key>
+            <string>explicit-hue-340</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b8c</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-341</string>
+            <key>scope</key>
+            <string>explicit-hue-341</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b7f</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-342</string>
+            <key>scope</key>
+            <string>explicit-hue-342</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b72</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-343</string>
+            <key>scope</key>
+            <string>explicit-hue-343</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65b65</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-344</string>
+            <key>scope</key>
+            <string>explicit-hue-344</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d65e5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-345</string>
+            <key>scope</key>
+            <string>explicit-hue-345</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d66b5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-346</string>
+            <key>scope</key>
+            <string>explicit-hue-346</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6785b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-347</string>
+            <key>scope</key>
+            <string>explicit-hue-347</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6855b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-348</string>
+            <key>scope</key>
+            <string>explicit-hue-348</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6915b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-349</string>
+            <key>scope</key>
+            <string>explicit-hue-349</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d69e5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-350</string>
+            <key>scope</key>
+            <string>explicit-hue-350</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6ab5b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-351</string>
+            <key>scope</key>
+            <string>explicit-hue-351</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6b85b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-352</string>
+            <key>scope</key>
+            <string>explicit-hue-352</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6c55b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-353</string>
+            <key>scope</key>
+            <string>explicit-hue-353</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#d6d25b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-354</string>
+            <key>scope</key>
+            <string>explicit-hue-354</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#cdd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-355</string>
+            <key>scope</key>
+            <string>explicit-hue-355</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#c0d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-356</string>
+            <key>scope</key>
+            <string>explicit-hue-356</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#b3d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-357</string>
+            <key>scope</key>
+            <string>explicit-hue-357</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#a7d65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-358</string>
+            <key>scope</key>
+            <string>explicit-hue-358</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#9ad65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+        <dict>
+            <key>name</key>
+            <string>explicit-hue-359</string>
+            <key>scope</key>
+            <string>explicit-hue-359</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#8dd65b</string>
+                <key>background</key>
+                <string>#000000</string>
+            </dict>
+        </dict>
+
+
+	</array>
+	<key>uuid</key>
+	<string>b76b4488-20c3-40a7-9499-457a451ee558</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.monokai_bright_extended</string>
+	<key>author</key>
+	<string>@tapionlinna</string>
+</dict>
+</plist>
